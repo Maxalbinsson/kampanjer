@@ -4,7 +4,7 @@ Jag har progmaerat en kampanjsida åt min kampanj som jag skrev på svenkan
 
 Vad jag har gjort
 Jag började med att välja det tema som jag skulle använda mig av. När jag hade vallt det så började jag med att välja de olika färgerna som jag skulle ha. och det gjorde jag genom coolors.
-Sedan satte jag  in de färgerna jag ville ha. och sedan min text.
+Sedan satte jag  in de färgerna jag ville ha. och sedan min text. Och till sist så kollade jag det på validator men ajg hade inga fel på min kod så jag behövde inte ändra något Det var nog för att vi hade en färdig mall det gjorde det ganska lätt att inte få fel.
 
 Positiva erfarenheter
 eftersom att det var en färdig mall så var det lätt att lägga in den text som man ville ha.
